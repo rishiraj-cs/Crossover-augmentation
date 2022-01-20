@@ -3,7 +3,7 @@
 ## How to run
 
 <ul>
-  <li>Run the call file for the respective augmentation technique.</li>
+  <li>Run the callaugment file for the respective augmentation technique.</li>
 </ul>
 
 ## Skin Cancer
